@@ -2,7 +2,7 @@
 
 
 
-### Hola Mundo! Hello everyine! 👋
+### Hola Mundo! Hello everyone! 👋
 
 
 
