@@ -1,5 +1,6 @@
-# Welcome to gihub repository of Fran Ruiz - k4m1K4z3!
+# Welcome to github repository of Fran Ruiz - k4m1K4z3!
 
+![Captura2](https://github.com/k4m1k4z/k4m1k4z/assets/153621827/05cb33b3-aee4-4beb-b4de-7582e4315b05)
 
 
 ### Hola Mundo! Hello everyone! 👋
