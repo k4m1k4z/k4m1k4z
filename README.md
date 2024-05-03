@@ -11,7 +11,7 @@
 
 <p> Accedemos a www.github.com, hacemos login con nuestra cuenta de usuario y una vez estamos en la página principal, hacemos clic en “NEW”. Después, tendremos que rellenar “repository name” y demás campos que reflejan las características que va a tener nuestro nuevo repositorio. Va a ser privado, y añadimos el “Readme”.</p>
 
-![Captura2](https://github.com/k4m1k4z/k4m1k4z/assets/153621827/05cb33b3-aee4-4beb-b4de-7582e4315b05)
+![cap1](IMG/retogit-1.jpg)
 
 ## **2.-Realiza la subida de la carpeta src de un proyecto en java.**
 
@@ -40,23 +40,29 @@ Las funciones más importantes de GD son:
 
 <p>Descarga los cambios desde un repositorio remoto y los incorpora en tu rama local. Puedes hacer un pull desde la interfaz web de GitHub o utilizando el comando git pull en tu terminal.</p>
 
-**3.	Push (Empujar):**
-Sube tus cambios locales al repositorio remoto.
-Puedes hacer un push desde la interfaz web de GitHub o utilizando el comando git push en tu terminal.
-**4.	Commit:**
-Guarda los cambios realizados en los archivos de tu repositorio. Cada commit tiene un mensaje asociado que describe los cambios realizados.
-Puedes realizar commits desde la interfaz web de GitHub o utilizando el comando git commit en tu terminal.
-**5.	Fetch (Recuperar):**
-Descarga todos los cambios del repositorio remoto a tu repositorio local, pero no los incorpora automáticamente en tu rama actual.
-Se puede hacer un fetch desde la interfaz web de GitHub o utilizando el comando git fetch en tu terminal.
-**6.	Merge (Fusionar):**
-Combina los cambios de una rama en otra rama. Por ejemplo, puedes fusionar una rama de desarrollo en una rama principal como main o master.
-Se puede hacer un merge desde la interfaz web de GitHub o utilizando el comando git merge en tu terminal.
-**7.	Branch (Rama):**
-Permite trabajar en paralelo en diferentes líneas de desarrollo. Cada rama puede contener cambios independientes.
-Puedes crear, eliminar y administrar ramas desde la interfaz web de GitHub o utilizando el comando git branch en tu terminal.
-**8.	Pull Request (Solicitud de extracción):**
-Una solicitud de extracción es una forma de proponer cambios en un repositorio. Permite a otros revisar los cambios antes de fusionarlos en la rama principal. Se puede crear desde la interfaz web de GitHub.
+### **3.	Push (Empujar):**
+
+<p>Sube tus cambios locales al repositorio remoto. Puedes hacer un push desde la interfaz web de GitHub o utilizando el comando git push en tu terminal.</p>
+
+### **4.	Commit:**
+
+<p>Guarda los cambios realizados en los archivos de tu repositorio. Cada commit tiene un mensaje asociado que describe los cambios realizados. Puedes realizar commits desde la interfaz web de GitHub o utilizando el comando git commit en tu terminal.</p>
+
+### **5.	Fetch (Recuperar):**
+
+<p>Descarga todos los cambios del repositorio remoto a tu repositorio local, pero no los incorpora automáticamente en tu rama actual. Se puede hacer un fetch desde la interfaz web de GitHub o utilizando el comando git fetch en tu terminal.</p>
+
+### **6.	Merge (Fusionar):**
+
+<p>Combina los cambios de una rama en otra rama. Por ejemplo, puedes fusionar una rama de desarrollo en una rama principal como main o master. Se puede hacer un merge desde la interfaz web de GitHub o utilizando el comando git merge en tu terminal.</p>
+
+### **7.	Branch (Rama):**
+
+<p>Permite trabajar en paralelo en diferentes líneas de desarrollo. Cada rama puede contener cambios independientes.Puedes crear, eliminar y administrar ramas desde la interfaz web de GitHub o utilizando el comando git branch en tu terminal.</p>
+
+### **8.	Pull Request (Solicitud de extracción):**
+
+<p< Una solicitud de extracción es una forma de proponer cambios en un repositorio. Permite a otros revisar los cambios antes de fusionarlos en la rama principal. Se puede crear desde la interfaz web de GitHub.</p>
 
 
 
