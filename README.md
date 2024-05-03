@@ -9,6 +9,9 @@
 
 ## **1.-Crea un repositorio nuevo que se llame retogit.**
 
+<p> Accedemos a www.github.com, hacemos login con nuestra cuenta de usuario y una vez estamos en la página principal, hacemos clic en “NEW”. Después, tendremos que rellenar “repository name” y demás campos que reflejan las características que va a tener nuestro nuevo repositorio. Va a ser privado, y añadimos el “Readme”.</p>
+
+![Captura2](https://github.com/k4m1k4z/k4m1k4z/assets/153621827/05cb33b3-aee4-4beb-b4de-7582e4315b05)
 
 ## **2.-Realiza la subida de la carpeta src de un proyecto en java.**
 
@@ -28,12 +31,15 @@
 # **Ayuda con los terminos de operaciones básicas con GitHub**
 
 Las funciones más importantes de GD son:
-**1.	Clone (Clonar):**
-Clona un repositorio remoto en tu máquina local. Este comando crea una copia exacta del repositorio, incluyendo todas las ramas y el historial de commits.
-Puedes clonar un repositorio desde la interfaz web de GitHub o usando la URL del repositorio en tu terminal.
-**2.	Pull (Tirar):**
-Descarga los cambios desde un repositorio remoto y los incorpora en tu rama local.
-Puedes hacer un pull desde la interfaz web de GitHub o utilizando el comando git pull en tu terminal.
+
+#### **1.	Clone (Clonar):**
+
+<p>Clona un repositorio remoto en tu máquina local. Este comando crea una copia exacta del repositorio, incluyendo todas las ramas y el historial de commits. Puedes clonar un repositorio desde la interfaz web de GitHub o usando la URL del repositorio en tu terminal.</p>
+
+#### **2.	Pull (Tirar):**
+
+<p>Descarga los cambios desde un repositorio remoto y los incorpora en tu rama local. Puedes hacer un pull desde la interfaz web de GitHub o utilizando el comando git pull en tu terminal.</p>
+
 **3.	Push (Empujar):**
 Sube tus cambios locales al repositorio remoto.
 Puedes hacer un push desde la interfaz web de GitHub o utilizando el comando git push en tu terminal.
