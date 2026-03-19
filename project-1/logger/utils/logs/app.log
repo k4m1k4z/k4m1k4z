@@ -1,0 +1,21 @@
+2026-03-19 19:23:43 | ERROR | division by zero
+2026-03-19 19:23:43 | ERROR | Traceback (most recent call last):
+  File "c:\projects\k4m1k4z\project-1\logger\logger_example.py", line 16, in main
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+
+2026-03-19 19:23:45 | ERROR | division by zero
+2026-03-19 19:23:45 | ERROR | Traceback (most recent call last):
+  File "c:\projects\k4m1k4z\project-1\logger\logger_example.py", line 16, in main
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+
+2026-03-19 19:26:55 | ERROR | division by zero
+2026-03-19 19:26:55 | ERROR | Traceback (most recent call last):
+  File "c:\projects\k4m1k4z\project-1\logger\logger_example.py", line 16, in main
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+
